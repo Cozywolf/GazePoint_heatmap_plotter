@@ -31,9 +31,10 @@ This script will process the raw output from Gazepoint Analysis software, plot t
 
 
 **How to use**
-1. Make sure numpy and pandas packages are installed and it is recommended to use VSCode for block by block execution.
-2. Run Block 1 in plotHeatmap.py to generate folders automatically
-3. Carefully review comments in Block 2 and enter all required info and files to the corresponding folders before running 
-4. Run Block 3 to load all the packages and functions
-5. Run Block 4 to read the event timestamps from the csv file
-6. Run Block 5, which will automatically generate all the heatmaps to save to designated folders
+1. Download this repo and make sure numpy and pandas packages are installed.
+2. Open plotheatmap.py. It is recommended to use VSCode for block by block execution.
+3. Run Block 1 in plotHeatmap.py to generate folders automatically
+4. Carefully review comments in Block 2 and enter all required info and files to the corresponding folders before running 
+5. Run Block 3 to load all the packages and functions
+6. Run Block 4 to read the event timestamps from the csv file
+7. Run Block 5, which will automatically generate all the heatmaps to save to designated folders
