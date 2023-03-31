@@ -32,7 +32,7 @@ This script will process the raw output from Gazepoint Analysis software, plot t
 
 **How to use**
 1. Download this repo and make sure numpy and pandas packages are installed.
-2. Open plotheatmap.py. It is recommended to use VSCode for block by block execution.
+2. Open plotHeatmap.py. It is recommended to use VSCode for block by block execution.
 3. Run Block 1 in plotHeatmap.py to generate folders automatically
 4. Carefully review comments in Block 2 and enter all required info and files to the corresponding folders before running 
 5. Run Block 3 to load all the packages and functions
